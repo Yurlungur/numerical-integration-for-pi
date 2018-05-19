@@ -15,6 +15,13 @@ on reddit's
 [DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
 subreddit.
 
+Here's a summary of the results:
+
+![summary plot](figures/summary_plot.png)
+
+The area under the curve on the left is pi. The plot on the right
+compares errors in various estimates of that area.
+
 ## Reading
 
 Just click on `integration-for-pi.ipynb` in the repository.
